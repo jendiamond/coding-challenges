@@ -30,7 +30,7 @@ genres:
   ...
 ```
 
-The task is straightforward -- Create an app in any client side framework of your choosing with the following features:
+#### Create an app in any **client side framework** of your choosing with the following features:
 - Reads in the `genres.json` file to populate a genres list
 - Displays this list to the user including the first four artists for each genre
 - Allows the user to select any number of these genres as a preference
@@ -48,6 +48,6 @@ Let the fictitious API endpoint have the following characteristics:
 
 This is our opportunity to see how you think, how you organize your code, and your development practice in general.  
 
-Though the task is small, we encourage you to employ all of your own best practices, in order to show us how you would work in a larger project.  Therefore, feel free to employ your best use of components, services, tests, etc, to show us what your "production" level code looks like.
+We encourage you to employ all of your own best practices, in order to show us how you would work in a larger project.  Therefore, feel free to employ your best use of components, services, tests, etc, to show us what your "production" level code looks like.
 
 Feel free to reach out with any questions you may have to `aaron.craig@iamplus.com`.
